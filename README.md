@@ -1,1 +1,1 @@
-# HungrySMP-plugin
+# HungrySMP's Plugin
